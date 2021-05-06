@@ -1,0 +1,45 @@
+{
+  "category": {
+    "sushi": {
+      "title": "Купить недорого в киеве суши по самой низкой цене",
+      "h1": "СУШИ",
+      "metaDescription": "Купить недорого в Киеве суши",
+      "products":{
+        "tovar-1": {"name": "Гункан лосось", "price": 40, "url": "/shop/sushi/tovar-1", "text": "50 г - Лосось, икра тобико, спайси соус, нори, рис, чернила каракатицы", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fc/a9a/52a/5fca9a52a4660873858200-620x414-2c8.jpg"},
+        "tovar-2": {"name": "Товар2", "price": 222, "url": "/shop/sushi/tovar-2", "text": "qwqwqwqwqwqwq wq qwq qw q2", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fc/a9a/a0e/5fca9aa0e2418787118577-270x180-ab0.jpg"},
+        "tovar-3": {"name": "Товар3", "price": 333, "url": "/shop/sushi/tovar-3", "text": "qwqwqwqwqwqwq wq qwq qw q3", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fc/a9a/8c7/5fca9a8c7e7f2211517194-270x180-ab0.jpg"},
+        "tovar-4": {"name": "Гункан чука", "price": 30, "url": "/shop/sushi/tovar-3", "text": "45 г - Водоросли чука, кунжут, ореховый соус, нори, рис, чернила каракатицы.", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fc/a9b/080/5fca9b080a25d734183039-620x414-2c8.jpg"}
+      },
+      "text": "Наши суши заказать в Подгороднее, Слобожанское и Золотые ключи просто и легко! В меню самые популярные, качественные и вкусные суши, быстрая доставка, позволит Вам насладиться изысканным вкусом именно тогда, когда Вы этого пожелаете! Суши, которые можно купить у нас - сделаны по всем канонам и правилам японской кухни!",
+      "url": "/shop/sushi"
+    },
+    "rolls": {
+      "title": "Купить недорого в киеве роллы по самой низкой цене",
+      "h1": "Категория Роллы",
+      "metaDescription": "Купить недорого в Киеве роллы",
+      "products":{
+        "tovar-2": {"name": "Товар4", "price": 444, "url": "/shop/rolls/tovar-4", "text": "qwqwqwqwqwqwq wq qwq qw q4", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fd/7ce/a80/5fd7cea8053f4856795156-270x180-ab0.jpg"},
+        "tovar-3": {"name": "Товар5", "price": 555, "url": "/shop/rolls/tovar-5", "text": "qwqwqwqwqwqwq wq qwq qw q5", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fd/7ce/781/5fd7ce781a7b9759657853-270x180-ab0.jpg"},
+        "tovar-4": {"name": "Товар6", "price": 666, "url": "/shop/rolls/tovar-6", "text": "qwqwqwqwqwqwq wq qwq qw q6", "image": "https://sushile.dp.ua/storage/app/media/phpthump/cache/storage/app/uploads/public/5fd/7ce/8e4/5fd7ce8e498d9048307320-270x180-ab0.jpg"}
+      },
+      "text": "Роллы в Украине делаются из самых свежих продуктов без гмо",
+      "url": "/shop/rolls"
+    }
+  },
+  "page": {
+    "home": {
+      "title": "Главная страница тайтл",
+      "h1": "SushiLe магазин",
+      "metaDescription": "descr home  - Купить недорого в Киеве роллы",
+      "text": "У нас Вы можете заказать роллы и суши с бесплатной доставкой, честной ценой и превосходным, стабильным качеством! ",
+      "url": "/"
+    },
+    "about-us": {
+      "title": "О нас тайтл",
+      "h1": "О нас",
+      "metaDescription": "",
+      "text": "Предлагаем Вам окунуться в мир загадочного китайского гадания Ицзин!",
+      "url": "/about-us"
+    }
+  }
+}

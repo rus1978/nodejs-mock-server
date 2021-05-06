@@ -1,0 +1,11 @@
+{
+  "title": "Купить недорого в киеве суши по самой низкой цене",
+  "h1": "Категория СУШИ",
+  "metaDescription": "Купить недорого в Киеве суши",
+  "products":[
+    {"name": "Товар1", "price": 111, "url": "/product-1", "content": "qwqwqwqwqwqwq wq qwq qw q1"},
+    {"name": "Товар2", "price": 222, "url": "/product-2", "content": "qwqwqwqwqwqwq wq qwq qw q2"},
+    {"name": "Товар3", "price": 333, "url": "/product-3", "content": "qwqwqwqwqwqwq wq qwq qw q3"}
+  ],
+  "text": "Суши в Украине делаются из самых свежих продуктов без гмо"
+}
